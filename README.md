@@ -5,4 +5,4 @@ This drum rack is for Superior Drummer 3. All that you should need to do is drop
 
 Enjoy
 
-
+![alt text](https://github.com/eristoy/Ableton-Drum-Racks/blob/master/SD3%20Rack.png?raw=true)
